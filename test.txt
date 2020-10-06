@@ -1,2 +1,14 @@
 hola chao chao holaaaa
 Te felicito
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sistema de nose que</title>
+</head>
+<body>
+<h1>Aqui va el titulo</h1>
+</body>
+</html>
